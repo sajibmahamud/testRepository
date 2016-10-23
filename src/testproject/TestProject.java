@@ -18,6 +18,7 @@ public class TestProject {
         // TODO code application logic here
         
         System.out.println("This Is First Project");
+        System.out.println("This Is Seconde Project.....");
     }
     
 }
